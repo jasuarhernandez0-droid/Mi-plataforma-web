@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Proyecto Final</title>
+</head>
+
+<body style="background-color: #f2f7ff; font-family: Arial, sans-serif; text-align: center; color: #1f2d3d;">
+
+    <div style="width: 80%; margin: auto; background-color: white; padding: 20px; border-radius: 10px;">
+        
+        <h1 style="color: darkblue;">Mi Proyecto Final</h1>
+        <h2 style="color: seagreen;">Datos del Estudiante</h2>
+        <h3 style="color: purple;">Bienvenidos a mi sitio web</h3>
+
+        <img src="foto.jpeg" alt="Foto personal" style="width: 250px; height: auto; border-radius: 10px;">
+
+        <p>
+            Mi nombre es 
+            <span style="font-weight: bold;">Wilson Jasuar Hernandez A.</span>
+        </p>
+
+        <p>
+            <span style="font-style: italic;">Estudiante de informática con interés en el diseño web.</span>
+        </p>
+
+        <p>
+            <span style="text-decoration: underline;">Información académica importante.</span>
+        </p>
+
+        <p>
+            <span style="font-weight: bold;">Carrera: BTP en Informática</span>
+        </p>
+
+        <div style="text-align: left; margin-top: 20px;">
+            <h2 style="color: seagreen;">Mis intereses</h2>
+
+            <ul>
+                <li>Escuchar música en mi tiempo libre</li>
+                <li>Explorar nuevas tecnologías</li>
+                <li>Aprender sobre informática y programación</li>
+                <li>Compartir tiempo con amigos y familia</li>
+            </ul>
+
+            <p>
+                Me interesa especialmente el área del diseño web, ya que me permite combinar creatividad con tecnología. 
+                Me gustaría seguir aprendiendo y desarrollando habilidades que me permitan crear páginas web modernas y funcionales.
+            </p>
+
+            <p>
+                Actualmente curso el tercer año de la carrera de Informática, donde he adquirido conocimientos básicos que deseo fortalecer mediante la práctica constante.
+            </p>
+
+            <p>
+                Mi objetivo es aplicar todo lo aprendido en proyectos reales, mejorando mis capacidades y preparándome para el ámbito profesional en el área tecnológica.
+            </p>
+        </div>
+
+        <div style="text-align: left; margin-top: 20px;">
+            <h2 style="color: seagreen;">Objetivos</h2>
+            <ol>
+                <li>Aprender HTML</li>
+                <li>Dominar CSS</li>
+                <li>Crear páginas web profesionales</li>
+            </ol>
+        </div>
+
+        <div style="text-align: left; margin-top: 20px;">
+            <h2 style="color: seagreen;">Historial Educativo</h2>
+            <table border="1" style="width: 100%; border-collapse: collapse; text-align: center;">
+                <tr style="background-color: #d9eaf7;">
+                    <th>Nivel</th>
+                    <th>Centro Educativo</th>
+                </tr>
+                <tr>
+                    <td>Primaria</td>
+                    <td>Centro de Educación Básica "Lempira"</td>
+                </tr>
+                <tr>
+                    <td>Ciclo Común</td>
+                    <td>ISEMED María Auxiliadora</td>
+                </tr>
+                <tr>
+                    <td>Instituto Actual</td>
+                    <td>ISEMED María Auxiliadora</td>
+                </tr>
+            </table>
+        </div>
+
+        <div style="text-align: left; margin-top: 20px;">
+            <h2 style="color: seagreen;">Datos Académicos</h2>
+            <table border="1" style="width: 100%; border-collapse: collapse; text-align: center;">
+                <tr style="background-color: #d9eaf7;">
+                    <th>Campo</th>
+                    <th>Detalle</th>
+                </tr>
+                <tr>
+                    <td>Nombre</td>
+                    <td>Wilson Jasuar Hernandez A.</td>
+                </tr>
+                <tr>
+                    <td>Carrera</td>
+                    <td>BTP en Informática</td>
+                </tr>
+                <tr>
+                    <td>Grado</td>
+                    <td>Duodécimo</td>
+                </tr>
+                <tr>
+                    <td>Promoción</td>
+                    <td>2026</td>
+                </tr>
+                <tr>
+                    <td>Asignatura</td>
+                    <td>Diseño Web</td>
+                </tr>
+                <tr>
+                    <td>Docente</td>
+                    <td>Pablo Peña</td>
+                </tr>
+            </table>
+        </div>
+
+        <div style="text-align: left; margin-top: 20px;">
+            <h2 style="color: seagreen;">Contacto</h2>
+            <p>Correo: Jasuarhernandez0@gmail.com</p>
+            <p>Teléfono: 9624-5013</p>
+            <p>Ciudad: San Pedro Sula, Cortés</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
